@@ -1,0 +1,13 @@
+{
+    "bg":"https://lovelytab.com/wp-content/uploads/2018/12/Super-Mario-Bros-Wallpapers.jpg",
+    "img": "https://i.postimg.cc/rs3PcsdN/logo-Alura.png",
+    "title":"Título da página",
+    "theme":{
+        "colors":{
+            "primary":"#c62828",
+            "secondary":"#d81b60",
+            "mainBg":"#273443",
+            "secondaryBg":"#edf8f5"
+        }
+    }
+}
